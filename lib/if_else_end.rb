@@ -1,7 +1,7 @@
 # Write your solution here
-hitch = true
-puts "code before"
-if hitch
-  puts 'code inside'
+run_code_inside = true
+puts "Code before if...end"
+if run_code_inside
+  puts 'ode inside'
 end
-puts 'code after'
+puts 'Code after if...end'
