@@ -1,2 +1,2 @@
 # Write your solution here
-puts Time.now.year
+puts Time.now
