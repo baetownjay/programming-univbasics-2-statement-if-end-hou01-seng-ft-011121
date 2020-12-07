@@ -1,2 +1,2 @@
 # Write your solution here
-Time.year.now
+Time.now.year
